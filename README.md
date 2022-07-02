@@ -17,7 +17,9 @@ This repository is intended to contribute to Square Cloud translations.
 - (~~~);
 
 3. Payments Service 
-- (🇧🇷 🇺🇸 🇪🇸);
+- English (100%);
+- Brazilian Portuguese (100%);
+- Spanish (100%);
 
 4. Webhooks Service 
 - (~~~);
