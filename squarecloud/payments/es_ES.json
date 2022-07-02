@@ -1,0 +1,21 @@
+{
+    "words": {
+        "info": "Información",
+        "plan": "Plan",
+        "month": "Mes",
+        "months": "Meses",
+        "reference": "Referencia"
+    },
+    "payments": {
+        "created": {
+            "title": "Donación creada",
+            "description": "Su donación ha sido solicitada, el sistema está esperando la confirmación del pago.",
+            "button": "Hacer donación"
+        },
+        "confirmed": {
+            "title": "Donación confirmada",
+            "description": "Su donación ha sido confirmada. ¡Gracias por confiar en Square Cloud, hacemos nuestro trabajo enfocándonos en la experiencia que te mereces!",
+            "bonus": "Tu donación ha sido recibida, como bono adicional hemos agregado +3 días de plan para ti 🥰"
+        }
+    }
+}
