@@ -1,0 +1,32 @@
+{
+    "abuse": {
+        "requests": {
+            "title": "Abuse of requests",
+            "description": "Your application with ID ${id} has been shut down due to requests abuse.",
+            "footer": "We ask that you monitor the situation and verify your application, as abuses can lead to suspensions over time.",
+            "shield": "[SQUARE-SHIELD] Your application has been shut down due to requests abuse."
+        },
+        "network": {
+            "title": "Network abuse",
+            "description": "Your application with ID ${id} has been shut down for network abuse.\nPlease urgently check what your application has done, network abuse is extremely serious and results in permanent suspension from Square Cloud.",
+            "footer": "We ask that you monitor the situation and verify your application, as abuses can lead to suspensions over time.",
+            "shield": "[SQUARE-SHIELD] Your application has been shut down due to network abuse."
+        },
+        "ssd": {
+            "title": "Storage Abuse",
+            "description": "Your application with ID ${id} has been shut down due to storage abuse.",
+            "footer": "We ask that you monitor the situation and verify your application, as abuses can lead to suspensions over time.",
+            "shield": "[SQUARE-SHIELD] Your application has been shut down due to storage abuse."
+        },
+        "ram": {
+            "title": "Excessive lack of RAM",
+            "description": "Your application with the id ${id} has been shut down due to a lack of ram.\nThe system gives Square even providing extra ram was unable to keep your application online with the current configuration.",
+            "footer": "In this case it is recommended that you increase the ram memory of your application.",
+            "shield": "[SQUARE-SHIELD] Your application has been shut down due to lack of ram memory."
+        }
+    },
+    "actions": {
+        "title": "Action (Always Restart)",
+        "description": "Your application was detected and restarted automatically."
+    }
+}
