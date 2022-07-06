@@ -5,8 +5,9 @@ This repository is intended to contribute to Square Cloud translations.
 
 1. [Website](https://)
 2. [Discord Bot](https://)
-3. [Payments Service](https://github.com/squarecloudofc/langs/tree/main/squarecloud/payments)
-4. [Webhooks Service](https://github.com/squarecloudofc/langs/tree/main/squarecloud/webhooks)
+3. [Cluster Service](https://github.com/squarecloudofc/langs/tree/main/squarecloud/cluster)
+4. [Payments Service](https://github.com/squarecloudofc/langs/tree/main/squarecloud/payments)
+5. [Webhooks Service](https://github.com/squarecloudofc/langs/tree/main/squarecloud/webhooks)
 
 ## Status
 
@@ -16,10 +17,15 @@ This repository is intended to contribute to Square Cloud translations.
 2. Discord Bot 
 - (~~~);
 
-3. Payments Service 
+4. Cluster Service 
 - English (100%);
 - Brazilian Portuguese (100%);
 - Spanish (100%);
 
-4. Webhooks Service 
+4. Payments Service 
+- English (100%);
+- Brazilian Portuguese (100%);
+- Spanish (100%);
+
+5. Webhooks Service 
 - (~~~);
