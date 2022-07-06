@@ -18,5 +18,30 @@
             "description": "Su donación ha sido confirmada. ¡Gracias por confiar en Square Cloud, hacemos nuestro trabajo enfocándonos en la experiencia que te mereces!",
             "bonus": "Como bono adicional, hemos agregado +3 días de plan para ti! 🥰"
         }
+    },
+    "expire": {
+        "warn": {
+            "title": "Plan que expira",
+            "description": "Su plan caducará en {days} día(s), si no hay renovación, se eliminarán todas sus aplicaciones y las demás copias de seguridad se enviarán a su DM.",
+            "footer": "El sistema intentará enviar las copias de seguridad, si falla, no nos hacemos responsables. ¡Mantenga siempre las copias de seguridad actualizadas!"
+        },
+        "expired": {
+            "title": "Plan caducado",
+            "description": "Su plan ha caducado, se eliminarán todas sus aplicaciones y todas las demás copias de seguridad se enviarán a su DM.",
+            "footer": "El sistema intentará enviar las copias de seguridad, si falla, no nos hacemos responsables. ¡Mantenga siempre las copias de seguridad actualizadas!"
+        }
+    },
+    "backups": {
+        "fail": {
+            "title": "Copia de seguridad fallida",
+            "description": "Aplicación: {id}.",
+            "footer": "Desafortunadamente, el sistema no pudo hacer una copia de seguridad de su aplicación.."
+        },
+        "success": {
+            "title": "Copia de seguridad realizada",
+            "description": "Aplicación: {id}.",
+            "footer": "La descarga caduca en 6 horas y solo se puede realizar una vez.",
+            "button": "Descargar archivo de copia de seguridad"
+        }
     }
 }
