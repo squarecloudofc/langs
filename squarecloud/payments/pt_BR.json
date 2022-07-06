@@ -18,5 +18,31 @@
             "description": "Sua doação foi confirmada. Obrigado por confiar na Square Cloud, fazemos o nosso trabalho focando na experiência em que você merece ter!",
             "bonus": "Como bônus adicional adicionamos +3 dias de plano para você! 🥰"
         }
+    },
+    "expire": {
+        "warn": {
+            "title": "Plano expirando",
+            "description": "O seu plano irá expirar em {days} dia(s), caso não seja constatado uma renovação todas as suas aplicações serão removidas e os demais backups serão enviados para sua DM.",
+            "footer": "O sistema tentará enviar os backups, caso falhe, não nós responsabilizamos. Sempre mantenha os backups em dia!"
+        },
+        "expired": {
+            "title": "Plano expirou",
+            "description": "O seu plano expirou, todas as suas aplicações serão removidas e os demais backups serão enviados para sua DM.",
+            "footer": "O sistema tentará enviar os backups, caso falhe, não nós responsabilizamos. Sempre mantenha os backups em dia!"
+        }
+    },
+    "backups": {
+        "fail": {
+            "title": "Falha ao Realizar Backup",
+            "description": "Aplicação: {id}.",
+            "footer": "Infelizmente o sistema não conseguiu realizar backup de sua aplicação."
+        },
+        "success": {
+            "title": "Backup Realizado",
+            "description": "Aplicação: {id}.",
+            "footer": "O download expira em 6 horas e só pode ser realizado uma vez.",
+            "button": "Baixar arquivo de backup"
+        }
     }
+    
 }
