@@ -17,7 +17,7 @@ This repository is intended to contribute to Square Cloud translations.
 2. Discord Bot 
 - (~~~);
 
-4. Cluster Service 
+3. Cluster Service 
 - English (100%);
 - Brazilian Portuguese (100%);
 - Spanish (100%);
