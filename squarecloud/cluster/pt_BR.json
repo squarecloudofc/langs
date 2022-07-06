@@ -1,0 +1,32 @@
+{
+    "abuse": {
+        "requests": {
+            "title": "Abuso de Requests",
+            "description": "Sua aplicação com o ID ${id} foi desligada por um abuso de requests.",
+            "footer": "Pedimos que monitore a situação e verifique sua aplicação, visto que abusos podem recorrer em suspensões ao longo do tempo.",
+            "shield": "[SQUARE-SHIELD] Sua aplicação foi desligada devido um abuso de requests."
+        },
+        "network": {
+            "title": "Abuso de Network",
+            "description": "Sua aplicação com o ID ${id} foi desligada por um abuso de network.\nVerifique com urgência o que sua aplicação fez, abuso de network é extremamente sério e resulta em suspensão permanente na Square Cloud.",
+            "footer": "Pedimos que monitore a situação e verifique sua aplicação, visto que abusos podem recorrer em suspensões ao longo do tempo.",
+            "shield": "[SQUARE-SHIELD] Sua aplicação foi desligada devido um abuso na rede."
+        },
+        "ssd": {
+            "title": "Abuso de Armazenamento",
+            "description": "Sua aplicação com o ID ${id} foi desligada por um abuso no armazenamento.",
+            "footer": "Pedimos que monitore a situação e verifique sua aplicação, visto que abusos podem recorrer em suspensões ao longo do tempo.",
+            "shield": "[SQUARE-SHIELD] Sua aplicação foi desligada devido um abuso em relação ao armazenamento."
+        },
+        "ram": {
+            "title": "Falta excessiva de RAM",
+            "description": "Sua aplicação com o ID ${id} foi desligada por uma falta de memória ram.\nO sistema da Square mesmo fornecendo ram extra não conseguiu manter sua aplicação online com a configuração atual.",
+            "footer": "Neste caso é recomendado que aumente a memória ram da sua aplicação.",
+            "shield": "[SQUARE-SHIELD] Sua aplicação foi desligada devido uma falta de memória ram."
+        }
+    },
+    "actions": {
+        "title": "Ação (Always Restart)",
+        "description": "Sua aplicação foi detectada e reiniciada automáticamente."
+    }
+}
