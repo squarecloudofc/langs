@@ -1,0 +1,32 @@
+{
+    "abuse": {
+        "requests": {
+            "title": "Abuso de solicitudes",
+            "description": "Tu aplicación con ID ${id} ha sido cerrada debido a un abuso de solicitudes.",
+            "footer": "Le pedimos que controle la situación y verifique su solicitud, ya que los abusos pueden dar lugar a suspensiones con el tiempo",
+            "shield": "[SQUARE-SHIELD] Tu aplicación se cerró debido a un abuso de solicitudes."
+        },
+        "network": {
+            "title": "Abuso de la red",
+            "description": "Su aplicación con ID ${id} se cerró por abuso de la red.\nVerifique con urgencia lo que ha hecho su aplicación, el abuso de la red es extremadamente grave y resulta en la suspensión permanente de Square Cloud",
+            "footer": "Le pedimos que controle la situación y verifique su solicitud, ya que los abusos pueden dar lugar a suspensiones con el tiempo",
+            "shield": "[SQUARE-SHIELD] Su aplicación se cerró debido a un abuso en la red."
+        },
+        "ssd": {
+            "title": "Abuso de almacenamiento",
+            "description": "Su aplicación con ID ${id} se ha cerrado debido a un abuso de almacenamiento.",
+            "footer": "Le pedimos que controle la situación y verifique su solicitud, ya que los abusos pueden dar lugar a suspensiones con el tiempo",
+            "shield": "[SQUARE-SHIELD] Su aplicación se ha cerrado debido a un abuso de almacenamiento."
+        },
+        "ram": {
+            "title": "Falta excesiva de RAM",
+            "description": "Su aplicación con la identificación ${id} se ha cerrado debido a la falta de RAM.\nEl sistema le da a Square incluso proporcionar RAM adicional y no pudo mantener su aplicación en línea con la configuración actual",
+            "footer": "En este caso, se recomienda que aumente la memoria ram de su aplicación.",
+            "shield": "[SQUARE-SHIELD] Su aplicación se ha cerrado debido a la falta de memoria ram."
+        }
+     },
+    "actions": {
+        "title": "Acción (siempre reiniciar)",
+        "description": "Tu aplicación fue detectada y reiniciada automáticamente."
+     }
+ }
